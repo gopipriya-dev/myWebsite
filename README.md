@@ -1,2 +1,2 @@
 # myWebsite
-A sample website
+A sample website created by **Gopi Priya**
